@@ -20,5 +20,15 @@ npm run build
 npm run lint
 ```
 
+### Run Desktop App
+```
+npm run electron:serve
+```
+
+### Build Desktop App
+```
+npm run electron:build
+```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
